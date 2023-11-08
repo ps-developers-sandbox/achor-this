@@ -3,6 +3,8 @@
 - Class Date: Nov 8 - 9, 2023
 - Facilitator: @jnus
 
+
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
