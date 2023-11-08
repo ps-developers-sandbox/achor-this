@@ -14,6 +14,8 @@
 
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
 
+
+
 #### Git
 
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
