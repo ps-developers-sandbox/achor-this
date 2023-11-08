@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: Nov 8 - 9, 2023
-- Facilitator: @jnus
+- Facilitator: @jnus, @ChristianZitzmann
 
 ## Class Resources
 
